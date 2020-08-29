@@ -1,10 +1,10 @@
 <h2>Hi! there, I'm Danish
 <br>
 <br>
-<h2> I'm a Software Developer
+<h2> I'm a Software Developer</h2>
 
 Currently Learning everything <br>
-Looking to collaborate with others</h2>
+Looking to collaborate with others
 
 <img
 align="left"
