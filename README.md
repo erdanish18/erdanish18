@@ -1,6 +1,6 @@
 <h2>Hi! there, I'm Danish</h2>
 
-<h3> I'm a Software Developer</h3>
+<h3> I'm a Software Engineer</h3>
 
 Currently Learning everything <br>
 Preparing for SDE1 role <br>
