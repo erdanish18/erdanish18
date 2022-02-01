@@ -9,5 +9,5 @@ Looking to collaborate with others
 <img
 align="left"
 alt="codeSTACKr's Github Stats"
-src="https://github-readme-stats.vercel.app/api?username=erdanish18&count_private=true"
+src="https://github-readme-stats.vercel.app/api?username=erdanish18&count_private=true&show_icons=true&theme=radical"
 />
